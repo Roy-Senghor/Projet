@@ -16,6 +16,8 @@ use App\Models\Plat;
 
 
 
+
+
 class User extends Authenticatable
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
